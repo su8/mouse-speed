@@ -1,5 +1,4 @@
-# kb-layout
-Query xorg and get the mouse speed in percentage
+Query xorg and get the mouse speed in percentage, can be combined to i3, conky or other programs.
 
 # Install
 
